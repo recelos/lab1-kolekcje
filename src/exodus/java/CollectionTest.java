@@ -1,4 +1,4 @@
-package tb.soft;
+package exodus.java;
 
 import java.util.*;
 import java.util.stream.IntStream;

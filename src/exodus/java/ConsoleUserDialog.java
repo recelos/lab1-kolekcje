@@ -1,13 +1,4 @@
-package tb.soft;
-/*
- * Program: Prosta biblioteka metod do realizacji dialogu z użytkownikiem
- *          w prostych aplikacjach bez graficznego interfejsu użytkownika.
- *    Plik: ConsoleUserDialog.java
- *          
- *   Autor: Paweł Rogaliński
- *    Data: październik 2018 r.
- *
- */
+package exodus.java;
 
 import java.util.Scanner;
 

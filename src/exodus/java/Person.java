@@ -1,19 +1,6 @@
-package tb.soft;
+package exodus.java;
 
 import java.io.*;
-
-
-/*
- *  Program: Operacje na obiektach klasy Person
- *     Plik: Person.java
- *           definicja typu wyliczeniowego Job
- *           definicja klasy PersonException
- *           definicja publicznej klasy Person
- *
- *    Autor: Paweł Rogaliński
- *     Data:  październik 2018 r.
- */
-
 
 /**
  *  Typ wyliczeniowy PersonJob reprezentuje przykładowe stanowiska, 

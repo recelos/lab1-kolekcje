@@ -1,4 +1,4 @@
-package tb.soft;
+package exodus.java;
 
 /**
  * Klasa testująca kolekcje zawierające obiekty z przesłoniętymi metodami equals() i hashCode()
